@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "conflux-truffle": "^1.0.3",
+    "js-conflux-sdk": "^2.1.6",
+    "superagent": "^8.0.0",
+    "truffle-plugin-verify": "^0.5.28"
+  }
+}
